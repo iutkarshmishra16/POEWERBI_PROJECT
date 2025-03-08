@@ -25,8 +25,11 @@ Product Hierarchy – Categories, subcategories, and product-level details
 Technologies Used
 
 Power BI – For data visualization and dashboard creation
+
 SQL Server – Used for data storage and transformation
+
 Python (pandas) – For additional data cleaning and preprocessing
+
 Microsoft Fabric Data Factory – For data ingestion and pipeline automation\
 
 
